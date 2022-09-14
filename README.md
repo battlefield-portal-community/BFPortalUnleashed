@@ -20,7 +20,7 @@ Auto-completion™ included.
 4. Click on `Add plugin` and enter the following url
 
 ```txt
-https://ludonope.github.io/BFPortalUnleashed/dist/manifest.json
+https://battlefield-portal-community.github.io/BFPortalUnleashed/dist/manifest.json
 ```
 
 Now when you go to the Battlefield Portal rules editor you should see the text editor popup after a few seconds :)
