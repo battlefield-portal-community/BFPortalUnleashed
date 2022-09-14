@@ -1,13 +1,6 @@
-# Not maintained anymore
+# Continuation of original work by Battlefield Portal Community
 
-This is BF2042 and the game refuses to run on my machine (it started nice during the beta and then got worse with every update).
-It completely freezes my computer every time I try to run it.
-
-Sadly that made me lose motivation.
-
-If you want to, you can make PR or even contact me to become a maintainer, but I won't be coding myself.
-
-Hope you understand.
+Join us at https://discord.gg/VQy2DrVg
 
 # Battlefield Portal Unleashed
 
