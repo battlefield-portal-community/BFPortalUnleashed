@@ -4,18 +4,17 @@
     "description": "A Battlefield Portal scripting tool",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Ludonope/BFPortalUnleashed"
+        "url": "https://github.com/battlefield-portal-community/BFPortalUnleashed"
     },
     "author": {
-        "name": "Ludonope",
-        "email": "ludonope@nopestudio.fr",
-        "url": "https://github.com/Ludonope"
+        "name": "Battlefield Portal Community",
+        "url": "https://github.com/battlefield-portal-community"
     },
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/Ludonope/BFPortalUnleashed/issues"
+        "url": "https://github.com/battlefield-portal-community/BFPortalUnleashed/issues"
     },
-    "homepage": "https://github.com/Ludonope/BFPortalUnleashed#readme",
+    "homepage": "https://github.com/battlefield-portal-community/BFPortalUnleashed#readme",
     "dependencies": {
         "monaco-editor": "~0.20.0",
         "portal-unleashed": "../generator/portal-unleashed/",

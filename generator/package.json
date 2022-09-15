@@ -3,8 +3,14 @@
     "version": "1.0.0",
     "description": "A JavaScript lib for Battlefield Portal Unleashed",
     "main": "dist/unleash.js",
-    "repository": "git@github.com:Ludonope/BFPortalUnleashedJS.git",
-    "author": "Ludonope <ludonope@nopestudio.fr>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/battlefield-portal-community/BFPortalUnleashed"
+    },
+    "author": {
+        "name": "Battlefield Portal Community",
+        "url": "https://github.com/battlefield-portal-community"
+    },
     "license": "MIT",
     "devDependencies": {
         "@types/node": "^16.11.7",

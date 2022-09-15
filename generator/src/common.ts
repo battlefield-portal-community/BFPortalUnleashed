@@ -8,8 +8,11 @@ export class Named {
   }
 }
 
+let reservedKeywords: string[] = ["break", "case", "catch", "continue", "debugger", "default", "delete", "do", "else", "finally", "for", "function", "if", "in", "instanceof", "new", "return", "switch", "this", "throw", "try", "typeof", "var", "void", "while", "with", "class", "const", "enum", "export", "extends", "import", "super", "null", "true", "false", "NaN", "Infinity", "undefined"];
+
 export function sanitize(s: string): string {
-  return s.replace("-", "_").replace(" ", "_")
+  if (reservedKeywords.includes(s)) return "_" + s;
+  return s.replace("-", "_").replace(" ", "_").replace(/^(\d)/g, "_$1");
 }
 
 export function category(s: string): string {

@@ -1,6 +1,8 @@
-# Continuation of original work by Battlefield Portal Community
+# Official continuation of original BFPortalUleashed
 
-Join us at https://discord.gg/VQy2DrVg
+Original work by [Ludonope](https://github.com/Ludonope)
+
+Join us at [Discord](https://discord.gg/VQy2DrVg)
 
 # Battlefield Portal Unleashed
 
