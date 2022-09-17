@@ -1,4 +1,4 @@
-# Official continuation of original BFPortalUleashed
+# Official continuation of original BFPortalUnleashed
 
 Original work by [Ludonope](https://github.com/Ludonope)
 
